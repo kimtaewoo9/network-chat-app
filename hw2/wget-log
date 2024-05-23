@@ -1,0 +1,12 @@
+--2024-05-05 23:21:43--  http://localhost:20000/a.html
+localhost (localhost) 해석 중... 127.0.0.1, ::1
+다음으로 연결 중: localhost (localhost)|127.0.0.1|:20000... 연결했습니다.
+HTTP 요청을 보냈습니다. 응답 기다리는 중... 받은 데이터 없음.
+다시 시도 중.
+
+--2024-05-05 23:21:46--  (시도횟수: 2)  http://localhost:20000/a.html
+다음으로 연결 중: localhost (localhost)|127.0.0.1|:20000... 실패: Connection refused.
+다음으로 연결 중: localhost (localhost)|::1|:20000... 실패: Connection refused.
+localhost (localhost) 해석 중... 127.0.0.1, ::1
+다음으로 연결 중: localhost (localhost)|127.0.0.1|:20000... 실패: Connection refused.
+다음으로 연결 중: localhost (localhost)|::1|:20000... 실패: Connection refused.

@@ -1,0 +1,5 @@
+down http://netapp.cs.kookmin.ac.kr/member/palladio.JPG
+down http://netapp.cs.kookmin.ac.kr:80/index.html
+down http://netapp.cs.kookmin.ac.kr/aaa.html
+down https://netapp.cs.kookmin.ac.kr/aaa.html
+quit

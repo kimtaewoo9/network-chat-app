@@ -1,0 +1,49 @@
+Student ID : 20202076
+
+> Name : Taewoo Kim
+
+> Connection : Host IP 127.0.0.1, Port 57963, Socket 4
+
+> GET /biga.html HTTP/1.1
+
+> User-Agent: Wget/1.24.5
+Accept:
+
+> 7 headers
+
+> finish 10818 10818
+
+> Connection : Host IP 127.0.0.1, Port 57964, Socket 4
+
+> GET /a.html HTTP/1.1
+
+> User-Agent: Wget/1.24.5
+Accept:
+
+> 7 headers
+
+> finish 44 44
+
+> Connection : Host IP 127.0.0.1, Port 57966, Socket 4
+
+> GET /b.html HTTP/1.1
+
+> User-Agent: Wget/1.24.5
+Accept:
+
+> 7 headers
+
+> finish 44 44
+
+> Connection : Host IP 127.0.0.1, Port 57967, Socket 4
+
+> GET /palladio.jpg HTTP/1.1
+
+> User-Agent: Wget/1.24.5
+Accept:
+
+> 7 headers
+
+> finish 142740 142740
+
+> 

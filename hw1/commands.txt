@@ -1,0 +1,16 @@
+down http://netapp.cs.kookmin.ac.kr/member/palladio.JPG
+down http://netapp.cs.kookmin.ac.kr/member/sanghwan.html
+down http://netapp.cs.kookmin.ac.kr:80/member/palladio.JPG
+down http://netapp.cs.kookmin.ac.kr:80/index.html
+
+down http://aaa.cs.kookmin.ac.kr/a.html
+down http://netapp.cs.kookmin.ac.kr/a.html
+down https://netapp.cs.kookmin.ac.kr/member/palladio.JPG
+down ftp://netapp.cs.kookmin.ac.kr/member/palladio.JPG
+
+
+down http://www.hotelpalladiogiardininaxos.it/en/wp-content/uploads/2019/08/hotel-palladio-taormina.jpg
+
+
+
+
